@@ -12,6 +12,7 @@ analytical thinking._**
 ### My App's 👌:
 
 - [Dictionary app](http://dictionary-yakov2.s3-website-eu-west-1.amazonaws.com/) 📚
+- [Cymotive Statistics](https://yakovcohen4.github.io/CymotiveChallenge/) 🚕
 
 ### Connect me 💬:
 
