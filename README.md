@@ -13,6 +13,7 @@ analytical thinking._**
 
 - [Dictionary app](http://dictionary-yakov2.s3-website-eu-west-1.amazonaws.com/) 📚
 - [Cymotive Statistics](https://yakovcohen4.github.io/CymotiveChallenge/) 🚕
+- [Starbucks App](https://62a9d0798e3ae7173452d5df--clinquant-lebkuchen-f40bfd.netlify.app/) 🌟
 
 ### Connect me 💬:
 
@@ -20,12 +21,7 @@ analytical thinking._**
 
 - Feel free to send an [E-mail](mailto:yakovc1431@gmail.com) 📧
 
-🛠
-
-<!--
- <h3 align="left">Languages and Tools:</h3> -->
-
-### Languages and Tools:
+### Languages and Tools: 🛠
 
 <table>
   <tr>
@@ -126,7 +122,7 @@ analytical thinking._**
       <br>Cypress
     </td>
     <td align="center"  width="96">
-      <a href="https://www.jestjs.com/io" target="_blank">
+      <a href="https://jestjs.io/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="48" height="48" alt="jest" />
       </a>
       <br>Jest
