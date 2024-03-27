@@ -1,15 +1,11 @@
-
-<div style="display: flex; flex-direction: column; align-items: center;"">
-  <a href="https://github.com/yakovcohen4">
-  <img src="https://readme-typing-svg.demolab.com?font=Lora&size=32&pause=1000&color=007BFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=450&height=50&lines=Hi%2C+I'm+Yakov" alt="My name" />
-  </a>
-  <img src="https://readme-typing-svg.demolab.com?font=Lora&size=24&pause=1000&color=007BFF&center=true&vCenter=true&random=false&width=450&height=50&lines=I'm+Full-Stack+Developer;Always+learning+new+things" alt="Sentences" />
-</div>
-
-
 <p align="center">
   <a href="https://github.com/DenverCoder1">
-    <img src="https://readme-typing-svg.demolab.com?font=Lora&size=32&pause=1000&color=007BFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=450&height=50&lines=Hi%2C+I'm+Yakov" alt="Hi, I'm Yakov Cohen" />
+    <img src="https://readme-typing-svg.demolab.com?font=Lora&size=32&pause=1000&color=007BFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=450&height=50&lines=Hi%2C+I'm+Yakov+Cohen" alt="Hi, I'm Yakov Cohen" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/DenverCoder1">
+    <img src="https://readme-typing-svg.demolab.com?font=Lora&size=24&pause=1000&color=007BFF&center=true&vCenter=true&random=false&width=450&height=50&lines=I'm+Full-Stack+Developer;Always+learning+new+things" alt="Sentences" />
   </a>
 </p>
 
