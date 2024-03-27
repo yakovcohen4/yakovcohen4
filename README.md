@@ -1,4 +1,9 @@
-# Hi, i'm Yakov 🙋‍♂️👨‍💻
+
+<div style="text-align: center;">
+  <a href="https://github.com/yakovcohen4"><img src="https://readme-typing-svg.demolab.com?font=Lora&size=32&pause=1000&color=007BFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=450&height=50&lines=Hi%2C+I'm+Yakov" alt="My name" />
+  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Lora&size=24&pause=1000&color=007BFF&center=true&vCenter=true&random=false&width=450&height=50&lines=I'm+Full-Stack+Developer;Always+learning+new+things" alt="Sentences" />
+</div>
 
 **_I'm full-stack developer with a passionate interest in projects requiring conceptual and
 analytical thinking._**
@@ -11,156 +16,323 @@ analytical thinking._**
 
 ### My App's 👌:
 
-- [Dictionary app](http://dictionary-yakov2.s3-website-eu-west-1.amazonaws.com/) 📚
-- [Cymotive Statistics](https://yakovcohen4.github.io/CymotiveChallenge/) 🚕
-- [Starbucks App](https://62a9d0798e3ae7173452d5df--clinquant-lebkuchen-f40bfd.netlify.app/) 🌟
+-   [Dictionary app](http://dictionary-yakov2.s3-website-eu-west-1.amazonaws.com/) 📚
+-   [Cymotive Statistics](https://yakovcohen4.github.io/CymotiveChallenge/) 🚕
+-   [Starbucks App](https://62a9d0798e3ae7173452d5df--clinquant-lebkuchen-f40bfd.netlify.app/) 🌟
 
 ### Connect me 💬:
 
-- Sharing update on [Linkedin](https://www.linkedin.com/in/yakovcohen/) 💼
+-   <div style="display: flex; align-items: center;">
+      <div style="margin-right: 10px;">
+        Sharing update on Linkedin 
+      </div>
+      <a href="https://www.linkedin.com/in/yakovcohen/" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="30" alt="linkedin logo" />
+      </a>
+    </div>
 
-- Feel free to send an [E-mail](mailto:yakovc1431@gmail.com) 📧
+-   <div style="display: flex; align-items: center;">
+      <div style="margin-left: 20px;">
+        Feel free to send an E-mail 
+      </div>
+      <a href="mailto:yakovc1431@gmail.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="30" alt="gmail logo" />
+      </a>
+    </div>
 
-### Languages and Tools: 🛠
+---
+
+### Languages and Tools: 🛠️
+
+
+#### Programming and Markup Languages 👨‍💻
+<a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo" /> 
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo" /> 
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo" /> 
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo" /> 
+</a>
+<a href="https://www.php.net/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" height="50" alt="php logo" /> 
+</a>
+<a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" height="50" alt="python logo" /> 
+</a>
+
+#### Frameworks and Libraries 🧰
+<a href="https://reactjs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo" /> 
+</a>
+<a href="https://redux.js.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=redux" height="50" alt="redux logo" /> 
+</a>
+<a href="https://nodejs.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo" /> 
+</a>
+<a href="https://laravel.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=laravel" height="50" alt="laravel logo" /> 
+</a>
+<a href="https://vuejs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vue" height="50" alt="vuejs logo" /> 
+</a>
+<a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo" /> 
+</a>
+
+#### Databases and Cloud Hosting
+<a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo" /> 
+</a>
+<a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo" /> 
+</a>
+<a href="https://aws.amazon.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=aws" height="50" alt="amazonwebservices logo" /> 
+</a>
+<a href="https://www.docker.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo" /> 
+</a>
+<a href="https://httpd.apache.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/apache/D22128" height="50" alt="apache logo" /> 
+</a>
+<a href="https://www.linux.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo" /> 
+</a>
+
+#### Software and Tools 💻
+<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=powershell" height="50" alt="powershell logo" /> 
+</a>
+<a href="https://www.cypress.com/io" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cypress" height="50" alt="cypress logo" /> 
+</a>
+<a href="https://jestjs.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=jest" height="50" alt="jest logo" /> 
+</a>
+<a href="https://github.com/puppeteer/puppeteer" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" height="50" width="50" alt="puppeteer logo" /> 
+</a>
+<a href="https://sass-lang.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=sass" height="50" alt="sass logo" /> 
+</a>
+<a href="https://webpack.js.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=webpack" height="50" alt="webpack logo" /> 
+</a>
+<a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo" /> 
+</a>
+<a href="https://www.postman.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postman" height="50" alt="postman logo" /> 
+</a>
+<a href="https://vitejs.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vite" height="50" alt="vite logo" /> 
+</a>
+
+### 🌱 I’m currently learning
+
+<a href="https://kubernetes.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=kubernetes" height="50" alt="kubernetes logo"  />
+</a>
+<a href="https://golang.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=go" height="50" alt="go logo"  />
+</a>
+
+----
 
 <table>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="80" height="80">
       <a href="https://www.w3.org/html/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="html" />
+        <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
       </a>
       <br>HTML
     </td>
-    <td align="center" width="96">
+    <td align="center" width="80" height="80">
       <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="css" />
+        <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
       </a>
       <br>CSS
     </td>
-    <td align="center" width="96">
+    <td align="center" width="80" height="80">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
       </a>
       <br>JavaScript
     </td>
-    <td align="center" width="96">
+    <td align="center" width="80" height="80">
       <a href="https://www.typescriptlang.org/"" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
       </a>
       <br>TypeScript
     </td>
-    <td align="center" width="96">
+    <td align="center" width="80" height="80">
       <a href="https://reactjs.org/" target="_blank" >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48" height="48" alt="React" />
+        <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
       </a>
       <br>React
     </td>
-    <td align="center" width="96">
+    <td align="center" width="80" height="80">
       <a href="https://redux.js.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="48" height="48" alt="Redux" />
+        <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
       </a>
       <br>Redux
     </td>
-    <td align="center" width="96">
-      <a href="https://getbootstrap.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-
   </tr>
+  
   <tr>
-    <td align="center" width="96"> 
+    <td align="center" width="80" height="80"> 
       <a href="https://nodejs.org" target="_blank" >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="48" height="48" alt="Node" />
+        <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
       </a>
       <br>NodeJS
     </td>
-    <td align="center" width="96"> 
+    <td align="center" width="80" height="80"> 
       <a href="https://www.docker.com/" target="_blank" >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="48" height="48" alt="Docker" />
+        <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
       </a>
       <br>Docker
     </td>
-    <td align="center" width="96">
+    <td align="center" width="80" height="80">
       <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">
-        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
+        <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
       </a>
       <br>Powershell
     </td>
-    <td align="center"  width="96">
+    <td align="center"  width="80" height="80">
       <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL" />
+        <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
       </a>
       <br>MySQL
     </td>
-    <td align="center"  width="96">
+    <td align="center"  width="80" height="80">
       <a href="https://www.mongodb.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48" alt="Mongo" />
+        <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
       </a>
       <br>MongoDB
     </td>
-    <td align="center"  width="96">
+    <td align="center"  width="80" height="80">
       <a href="https://aws.amazon.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="aws" />
+        <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
       </a>
       <br>AWS
-    </td>
-        </td>
-      <td align="center" width="96">
-      <a href="https://www.postman.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Webpack" />
-      </a>
-      <br>Postman
-    </td>
   </tr>
+
   <tr>
-    <td align="center"  width="96">
+    <td align="center"  width="80" height="80">
       <a href="https://www.cypress.com/io" target="_blank">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" width="48" height="48" alt="cypress" />
+        <img src="https://skillicons.dev/icons?i=cypress" height="40" alt="cypress logo"  />
       </a>
       <br>Cypress
     </td>
-    <td align="center"  width="96">
+    <td align="center"  width="80" height="80">
       <a href="https://jestjs.io/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="48" height="48" alt="jest" />
+        <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  />
       </a>
       <br>Jest
     </td>
-        <td align="center" width="96">
+        <td align="center" width="80" height="80">
       <a href="https://github.com/puppeteer/puppeteer" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" width="48" height="48" alt="Puppeteer" />
+        <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" height="40" width="40" alt="puppeteer logo" />
       </a>
       <br>Puppeteer
-    <td align="center"  width="96">
+    <td align="center"  width="80" height="80">
       <a href="https://sass-lang.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="48" height="48" alt="eslint" />
+        <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
       </a>
       <br>Sass
     </td>
     </td>
-      <td align="center" width="96">
+      <td align="center" width="80" height="80">
       <a href="https://webpack.js.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" width="48" height="48" alt="Webpack" />
+        <img src="https://skillicons.dev/icons?i=webpack" height="40" alt="webpack logo"  />
       </a>
       <br>Webpack
     </td>
     </td>
-      <td align="center" width="96">
-      <a href="https://heroku.com" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="48" height="48" alt="Webpack" />
-      </a>
-      <br>Heroku
-    </td>
-    </td>
-      <td align="center" width="96">
+      <td align="center" width="80" height="80">
       <a href="https://git-scm.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Webpack" />
+        <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
       </a>
       <br>Git
     </td>
-
   </tr>
+
+  <tr>
+      </td>
+          <td align="center" width="80" height="80">
+          <a href="https://laravel.com/" target="_blank">
+            <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
+          </a>
+          <br>Laravel
+      </td>
+      </td>
+          <td align="center" width="80" height="80">
+          <a href="https://www.php.net/" target="_blank">
+            <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+          </a>
+          <br>Php
+      </td>
+      </td>
+          <td align="center" width="80" height="80">
+          <a href="https://httpd.apache.org/" target="_blank">
+            <img src="https://cdn.simpleicons.org/apache/D22128" height="40" alt="apache logo"  />
+          </a>
+          <br>Apache
+      </td>
+      </td>
+          <td align="center" width="80" height="80">
+          <a href="https://www.linux.org/" target="_blank">
+            <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+          </a>
+          <br>Linux
+      </td>
+      </td>
+          <td align="center" width="80" height="80">
+          <a href="https://tailwindcss.com/" target="_blank">
+            <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+          </a>
+          <br>Tailwind
+      </td>
+      </td>
+          <td align="center" width="80" height="80">
+          <a href="https://vitejs.dev/" target="_blank">
+            <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+          </a>
+          <br>Vite
+      </td>
+      
+  </tr>
+
+  <tr>
+      <td align="center" width="80" height="80">
+        <a href="https://www.python.org/" target="_blank">
+          <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  />
+        </a>
+        <br>Python
+      </td>
+      </td>
+        </td>
+        <td align="center" width="80" height="80">
+        <a href="https://www.postman.com/" target="_blank">
+          <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+        </a>
+        <br>Postman
+      </td>
+      </td>
+          <td align="center" width="80" height="80">
+          <a href="https://vuejs.org/" target="_blank">
+            <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo"  />
+          </a>
+          <br>Vue
+      </td>
+  </tr>
+
 </table>
 
 <!--  -->
@@ -169,21 +341,15 @@ analytical thinking._**
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <a href="https://graphql.org" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="48" height="48" alt="html" />
+    <td align="center" width="80" height="80">
+      <a href="https://kubernetes.io/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
       </a>
-      <br>Graphql
+      <br>kubernetes
     </td>
-    <td align="center" width="96">
-      <a href="https://www.python.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="html" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
+    <td align="center" width="80" height="80">
       <a href="https://golang.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="48" height="48" alt="html" />
+        <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
       </a>
       <br>Go
     </td>
@@ -191,138 +357,8 @@ analytical thinking._**
 </tr>
 </table>
 
-
-<!--  -->
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yakovcohen4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yakovcohen4&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=black&style=for-the-badge" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=black&style=for-the-badge" height="40" alt="powershell logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=black&style=for-the-badge" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black&style=for-the-badge" height="40" alt="webpack logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" height="40" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white&style=for-the-badge" height="40" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="40" alt="tailwindcss logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=webpack" height="40" alt="webpack logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/apache/D22128" height="40" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
-</div>
-
-###
-
-<br clear="both">
+---
 
 <img src="https://raw.githubusercontent.com/yakovcohen4/yakovcohen4/output/snake.svg" alt="Snake animation" />
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/yakovcohen4/count.svg?"  />
-</div>
-
-###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yakovcohen4&label=Profile%20views&color=0e75b6&style=flat" alt="yakovcohen4" /> </p>
