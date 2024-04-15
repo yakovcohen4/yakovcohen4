@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1">
-    <img src="https://readme-typing-svg.demolab.com?font=Lora&size=32&pause=1000&color=007BFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=450&height=50&lines=Hi%2C+I'm+Yakov+Cohen" alt="Hi, I'm Yakov Cohen" />
+  <a href="https://github.com/yakovcohen4">
+  <img src="https://readme-typing-svg.demolab.com?font=Lora&size=32&duration=2500&color=007BFF&center=true&vCenter=true&repeat=false&random=false&width=450&lines=Hi%2C+I'm+Yakov+Cohen" alt="Hi, I'm Yakov Cohen" />
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/DenverCoder1">
+  <a>
     <img src="https://readme-typing-svg.demolab.com?font=Lora&size=24&pause=1000&color=007BFF&center=true&vCenter=true&random=false&width=450&height=50&lines=I'm+Full-Stack+Developer;Always+learning+new+things" alt="Sentences" />
   </a>
 </p>
@@ -20,36 +20,36 @@ analytical thinking._**
 
 ### My App's 👌:
 
--   [Dictionary app](http://dictionary-yakov2.s3-website-eu-west-1.amazonaws.com/) 📚
--   [Cymotive Statistics](https://yakovcohen4.github.io/CymotiveChallenge/) 🚕
--   [Starbucks App](https://62a9d0798e3ae7173452d5df--clinquant-lebkuchen-f40bfd.netlify.app/) 🌟
+- [Dictionary app](http://dictionary-yakov2.s3-website-eu-west-1.amazonaws.com/) 📚
+- [Cymotive Statistics](https://yakovcohen4.github.io/CymotiveChallenge/) 🚕
+- [Starbucks App](https://62a9d0798e3ae7173452d5df--clinquant-lebkuchen-f40bfd.netlify.app/) 🌟
 
 ### Connect me 💬:
 
--   <div style="display: flex; align-items: center;">
-      <div style="margin-right: 10px;">
-        Sharing update on Linkedin 
-      </div>
-      <a href="https://www.linkedin.com/in/yakovcohen/" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="30" alt="linkedin logo" />
-      </a>
+- <div style="display: flex; align-items: center;">
+    <div style="margin-right: 10px;">
+      Sharing update on Linkedin 
     </div>
+    <a href="https://www.linkedin.com/in/yakovcohen/" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="30" alt="linkedin logo" />
+    </a>
+  </div>
 
--   <div style="display: flex; align-items: center;">
-      <div style="margin-left: 20px;">
-        Feel free to send an E-mail 
-      </div>
-      <a href="mailto:yakovc1431@gmail.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="30" alt="gmail logo" />
-      </a>
+- <div style="display: flex; align-items: center;">
+    <div style="margin-left: 20px;">
+      Feel free to send an E-mail 
     </div>
+    <a href="mailto:yakovc1431@gmail.com" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="30" alt="gmail logo" />
+    </a>
+  </div>
 
 ---
 
 ### Languages and Tools: 🛠️
 
-
 #### Programming and Markup Languages 👨‍💻
+
 <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo" /> 
 </a>
@@ -70,6 +70,7 @@ analytical thinking._**
 </a>
 
 #### Frameworks and Libraries 🧰
+
 <a href="https://reactjs.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo" /> 
 </a>
@@ -90,6 +91,7 @@ analytical thinking._**
 </a>
 
 #### Databases and Cloud Hosting
+
 <a href="https://www.mysql.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo" /> 
 </a>
@@ -110,6 +112,7 @@ analytical thinking._**
 </a>
 
 #### Software and Tools 💻
+
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">
     <img src="https://skillicons.dev/icons?i=powershell" height="50" alt="powershell logo" /> 
 </a>
@@ -138,7 +141,7 @@ analytical thinking._**
     <img src="https://skillicons.dev/icons?i=vite" height="50" alt="vite logo" /> 
 </a>
 
-### 🌱 I’m currently learning
+### I’m currently learning 🌱
 
 <a href="https://kubernetes.io/" target="_blank">
     <img src="https://skillicons.dev/icons?i=kubernetes" height="50" alt="kubernetes logo"  />
